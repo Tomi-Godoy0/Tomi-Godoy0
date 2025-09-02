@@ -1,4 +1,6 @@
 # Mi Perfil
 
-Hola soy Tomas Godoy! 😄
+¡Hola! Soy Tomas Godoy
+Estudiante de Ingeniería informatica.
+Apasionado por el desarrollo de software y la tecnologia en general. 
 
