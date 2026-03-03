@@ -1,6 +1,4 @@
-# Mi Perfil
-
-👋 Hola, soy Tomás Godoy
+# 👋 Hola, soy Tomás Godoy
 
 🎓 Estudiante avanzado de Ingeniería Informática en la Universidad Nacional Arturo Jauretche.
 💻 Enfocado actualmente en desarrollo Full-Stack con React y Node.js.
